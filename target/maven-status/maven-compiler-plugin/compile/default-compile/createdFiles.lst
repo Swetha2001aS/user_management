@@ -1,0 +1,9 @@
+controller/RequestServlet.class
+controller/SignUpServlet.class
+dao/SoftwareDAO.class
+controller/Requests.class
+dao/Request.class
+controller/Logout.class
+controller/LoginServlet.class
+dao/Software.class
+controller/SoftwareServlet.class
